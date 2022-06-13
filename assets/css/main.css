@@ -1,0 +1,22 @@
+.intro{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 786px;
+}
+
+.intro p    {
+    font-size: 96px;
+    color: white;
+}
+
+.sun{
+    position: absolute;
+    z-index: -1;
+    font-weight: 400;
+}
+
+.seta{
+    position: absolute;
+    transform: translateY(400px);
+}

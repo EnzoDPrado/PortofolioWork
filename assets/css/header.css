@@ -1,0 +1,24 @@
+.heads{
+    height: 135px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 65px;
+    padding-right: 65px;
+}
+
+.navigation ul{
+    display: flex;
+    gap: 30px;
+}
+
+.navigation a{
+    font-size: 30px;
+    font-weight: 400;
+    color: white;
+
+}
+
+
+
+    
